@@ -9,7 +9,7 @@ tags:
   - bug bounty
 ---
 
-I recently saw the great talk at [Grazer Linuxtage 2026](https://linuxtage.at) about the [OpenTrafficMap project](opentrafficmap.org) and the C-ITS/V2X system. It sparked interest, as I remembered that we deployed some C-ITS transmitters in Slovenia a while ago as part of the [C-Roads project](https://www.gov.si/en/registries/projects/c-roads-slovenija-partnerski-projekt/) and I wanted to see if they worked and what else I could pick up.
+I recently saw the great talk at [Grazer Linuxtage 2026](https://linuxtage.at) about the [OpenTrafficMap project](https://opentrafficmap.org/) and the C-ITS/V2X system. It sparked interest, as I remembered that we deployed some C-ITS transmitters in Slovenia a while ago as part of the [C-Roads project](https://www.gov.si/en/registries/projects/c-roads-slovenija-partnerski-projekt/) and I wanted to see if they worked and what else I could pick up.
 
 After ordering a [WaveShare ESP32-C5](https://www.waveshare.com/esp32-c5-wifi6-kit-n16r4.htm) kit and flashing it with [v2x2map](https://github.com/pit711/v2x2map/), I set off towards Ljubljana with a running PCAP in the app and an MQTT session towards the OTM server. After the drive, I checked the web app and sure enough, some RSUs appeared.
 
