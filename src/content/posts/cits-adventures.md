@@ -1,8 +1,8 @@
 ---
 title: "The Beginning of my Adventures in C-ITS"
 description: "Writing my first Wireshark extcap module and an accidental bug bounty"
-pubDatetime: 2026-06-22T00:00:00Z
-modDatetime: 2026-06-22T00:00:00.000Z
+pubDatetime: 2026-06-21T00:00:00Z
+modDatetime: 2026-06-21T00:00:00.000Z
 featured: true
 tags:
   - c-its
